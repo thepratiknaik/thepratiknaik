@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    Hey folks!
+    Alright, listen up, tech enthusiasts! 👋
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -18,7 +18,7 @@
     </a>
   </div>
 </div>
-Well, hello there! 👋 Allow me to introduce myself—I'm a tech geek with a dash of ambition, currently pursuing my Master of Science in Computer Science (MSCS) at Pace University, New York. Yep, the Big Apple is my playground, and this program? It’s sharpening my skills to take on the wild, wonderful, and occasionally chaotic world of tech. 🎯
+Alright, gang! 👋 Allow me to introduce myself—I'm a tech geek with a dash of ambition, currently pursuing my Master of Science in Computer Science (MSCS) at Pace University, New York. Yep, the Big Apple is my playground, and this program? It’s sharpening my skills to take on the wild, wonderful, and occasionally chaotic world of tech. 🎯
 
 I come equipped with a Bachelor of Engineering in Computer Engineering, my launchpad into the universe of hardware and software. Strong foundation, multiple systems in play, and built for greatness. 💡
 
